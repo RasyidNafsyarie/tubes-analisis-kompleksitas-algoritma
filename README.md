@@ -1,5 +1,7 @@
-## install Library Python ##
+# install Library Python #
 
-## pip install numpy ##
+# 1.  pip install numpy #
 
-## pip install matplotlib ##
+# 2. pip install matplotlib #
+
+# 3. Run index.py #
